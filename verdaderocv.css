@@ -1,0 +1,12 @@
+body{background-color: rgb(155, 196, 179); font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-image: url(espacio\ exter.jpg);}
+#inicio{color: blueviolet; background-color: black;}
+h1{color: blue; background-color: brown; text-align: center;}
+ul{color: red; background-color: black;}
+
+h2{color: white; background-color: black;}
+p{background-color: rgb(225, 226, 228); color: blueviolet;}
+table{color: aqua;}
+#fina{font-size: larger; text-align: center; width: 40%;}
+.normal{background-color: antiquewhite; color: blue;}
+a{background-color: blue; color:rgb(191, 64, 250); font-size: xx-large;}

@@ -1,0 +1,32 @@
+body{font-family: cursive;
+background-color: rgb(189, 194, 194);}
+hr{color: rgb(209, 27, 54);
+background-color: rgb(60, 145, 219);
+padding: 2px;
+width: 60%;}
+p{color: rgb(79, 76, 212);
+text-align: left; 
+ background-color: aliceblue;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+ h1{ color: rgb(187, 17, 51);
+    background-color: black;
+    width: 50%;
+} 
+#paInt{color: rgb(10, 76, 212);
+    text-align: left; 
+     background-color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+width: 70%;}
+
+
+.hrtops{background-color: rgb(71, 94, 114);
+    padding: 2px;
+    width: 75%;}
+
+.Numero5{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: antiquewhite;}
+h2{background-color: aliceblue; width: 53%;}
+#parrafof{color: rgb(221, 201, 240); text-align: middle; background-color: brown; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;} 
+
+.hrtops2{background-color: aqua;
+         padding: 2px; width: 75%;}
+         
